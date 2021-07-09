@@ -1,5 +1,4 @@
-# EPFL_Capstone_Project
-EPFL Extension School Capstone Project for COS Applied Data Science: Machine Learning
+# EPFL Extension School Capstone Project for COS Applied Data Science: Machine Learning
 
 # Assessing the share of male and female voices in (Swiss-) German audio media with machine learning
 
